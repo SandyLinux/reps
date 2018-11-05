@@ -1,4 +1,6 @@
 conf-master
 conf-joe1
 conf-joe2
+[config]
+resetenable = true
 
