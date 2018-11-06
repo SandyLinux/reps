@@ -4,4 +4,5 @@ conf-joe2
 [config]
 resetenable = true
 alert=false
+generatelog=true
 
